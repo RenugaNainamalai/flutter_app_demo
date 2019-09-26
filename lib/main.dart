@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
               Padding(padding: EdgeInsets.only(top: 20)),
               SizedBox(
                 height: 50,
-                child: new Text('Registaration',style: TextStyle(fontSize: 20),),
+                child: new Text('Registration',style: TextStyle(fontSize: 20),),
 
                ),
             Padding(
